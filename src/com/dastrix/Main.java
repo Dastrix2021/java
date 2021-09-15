@@ -18,6 +18,6 @@ public class Main {
             a[i] = in.nextInt ();
             i++;
         } while (i < n);
-
+        System.out.print("Готово");
     }
 }
