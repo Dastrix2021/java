@@ -1,6 +1,10 @@
 package com.dastrix;
 
+import com.dastrix.git.TestGit;
+
 import java.util.Scanner;
+
+import static com.dastrix.git.TestGit.One;
 
 
 public class Main {
@@ -18,6 +22,7 @@ public class Main {
             a[i] = in.nextInt ();
             i++;
         } while (i < n);
-        System.out.print("Готово");
+        System.out.println("Готово");
+        One();
     }
 }
