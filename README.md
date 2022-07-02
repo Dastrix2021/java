@@ -1,5 +1,5 @@
-# Тестовый проект:
-## на Java
+# Small project:
+## for java
 ###   
 >![Linux](tux.png)
 
